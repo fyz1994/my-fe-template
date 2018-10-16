@@ -11,7 +11,3 @@
  * **domain.js**  —  定义前后端的域名地址和接口地址
     * host 域名地址
     * domain 接口地址
-* **logo.js** — 定义应用名称  logo图片，缩小的logo图片
-* **menu.js**  — 定义导航栏
-* **version.js** — 版本列表
-
