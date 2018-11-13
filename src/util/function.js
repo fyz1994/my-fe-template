@@ -20,8 +20,8 @@ function getBaseUrl() {
     return false
   })
 
-  if (!domain)
-    throw new Error('Can not match the domain! Please check your domain config.')
+  // if (!domain)
+  //   throw new Error('Can not match the domain! Please check your domain config.')
   return domain
 }
 
